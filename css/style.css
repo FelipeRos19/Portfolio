@@ -1,0 +1,11 @@
+body {
+    background-color: #222222;
+    font-size: xx-large;
+    font-family: Impact, serif;
+    color: antiquewhite;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
